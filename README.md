@@ -1,0 +1,2 @@
+# ManjaroInit
+init terminal init

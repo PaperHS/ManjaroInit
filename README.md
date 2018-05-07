@@ -1,6 +1,6 @@
 # ManjaroInit
 init terminal
-'''
+```
 sudo pacman-mirrors -c China
 sudo pacman Syyu
 sudo pacman -S yaourt git vim emacs
@@ -28,4 +28,4 @@ WantedBy=multi-user.target
 
 
 sudo systemctl enable --now shadowsocksr-libev-local@config.service
-'''
+```
